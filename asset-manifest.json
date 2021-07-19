@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/vr-landing-react/static/css/main.a1d65f9c.chunk.css",
+    "main.js": "/vr-landing-react/static/js/main.f42a4f91.chunk.js",
+    "main.js.map": "/vr-landing-react/static/js/main.f42a4f91.chunk.js.map",
+    "runtime-main.js": "/vr-landing-react/static/js/runtime-main.1f5a0b74.js",
+    "runtime-main.js.map": "/vr-landing-react/static/js/runtime-main.1f5a0b74.js.map",
+    "static/js/2.22d0ef85.chunk.js": "/vr-landing-react/static/js/2.22d0ef85.chunk.js",
+    "static/js/2.22d0ef85.chunk.js.map": "/vr-landing-react/static/js/2.22d0ef85.chunk.js.map",
+    "index.html": "/vr-landing-react/index.html",
+    "static/css/main.a1d65f9c.chunk.css.map": "/vr-landing-react/static/css/main.a1d65f9c.chunk.css.map",
+    "static/js/2.22d0ef85.chunk.js.LICENSE.txt": "/vr-landing-react/static/js/2.22d0ef85.chunk.js.LICENSE.txt",
+    "static/media/image-curiosity.40d51f38.jpg": "/vr-landing-react/static/media/image-curiosity.40d51f38.jpg",
+    "static/media/image-curiosity.7f14665a.jpg": "/vr-landing-react/static/media/image-curiosity.7f14665a.jpg",
+    "static/media/image-deep-earth.2a157951.jpg": "/vr-landing-react/static/media/image-deep-earth.2a157951.jpg",
+    "static/media/image-deep-earth.f8da6014.jpg": "/vr-landing-react/static/media/image-deep-earth.f8da6014.jpg",
+    "static/media/image-fisheye.8bb3f74e.jpg": "/vr-landing-react/static/media/image-fisheye.8bb3f74e.jpg",
+    "static/media/image-fisheye.ff97b54e.jpg": "/vr-landing-react/static/media/image-fisheye.ff97b54e.jpg",
+    "static/media/image-from-above.b7b9dba0.jpg": "/vr-landing-react/static/media/image-from-above.b7b9dba0.jpg",
+    "static/media/image-from-above.f316f3f3.jpg": "/vr-landing-react/static/media/image-from-above.f316f3f3.jpg",
+    "static/media/image-grid.043c26ef.jpg": "/vr-landing-react/static/media/image-grid.043c26ef.jpg",
+    "static/media/image-grid.a8ce4f2b.jpg": "/vr-landing-react/static/media/image-grid.a8ce4f2b.jpg",
+    "static/media/App.scss": "/vr-landing-react/static/media/image-hero.9b5aacea.jpg",
+    "static/media/image-interactive.1d330522.jpg": "/vr-landing-react/static/media/image-interactive.1d330522.jpg",
+    "static/media/image-interactive.d6a3949b.jpg": "/vr-landing-react/static/media/image-interactive.d6a3949b.jpg",
+    "static/media/image-night-arcade.a4f25d3b.jpg": "/vr-landing-react/static/media/image-night-arcade.a4f25d3b.jpg",
+    "static/media/image-night-arcade.a5acf9d0.jpg": "/vr-landing-react/static/media/image-night-arcade.a5acf9d0.jpg",
+    "static/media/image-pocket-borealis.0b89db1f.jpg": "/vr-landing-react/static/media/image-pocket-borealis.0b89db1f.jpg",
+    "static/media/image-pocket-borealis.799292df.jpg": "/vr-landing-react/static/media/image-pocket-borealis.799292df.jpg",
+    "static/media/image-soccer-team.18a63d8d.jpg": "/vr-landing-react/static/media/image-soccer-team.18a63d8d.jpg",
+    "static/media/image-soccer-team.24ac0872.jpg": "/vr-landing-react/static/media/image-soccer-team.24ac0872.jpg",
+    "static/media/logo.5b4e652a.svg": "/vr-landing-react/static/media/logo.5b4e652a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f5a0b74.js",
+    "static/js/2.22d0ef85.chunk.js",
+    "static/css/main.a1d65f9c.chunk.css",
+    "static/js/main.f42a4f91.chunk.js"
+  ]
+}
